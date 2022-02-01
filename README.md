@@ -5,5 +5,5 @@
 * https://itreport.tistory.com/624
 * https://blog.wsgvet.com/ubuntu-2004-install-php74-rhymix/
 
-스킨은 https://github.com/calvinsnax/rx-flextagram 사용
+스킨은 https://github.com/calvinsnax/rx-flextagram 사용,
 db 및 설정은 팀드라이브
