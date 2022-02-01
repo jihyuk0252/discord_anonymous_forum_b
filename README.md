@@ -7,3 +7,5 @@
 
 스킨은 https://github.com/calvinsnax/rx-flextagram 사용,
 db 및 설정은 팀드라이브
+
+결제 모듈은 https://github.com/Waterticket/rx-module-hotopay 사용
